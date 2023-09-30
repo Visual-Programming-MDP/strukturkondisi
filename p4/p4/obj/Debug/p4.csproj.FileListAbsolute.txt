@@ -1,0 +1,10 @@
+D:\VISUAL\p4\p4\bin\Debug\p4.exe.config
+D:\VISUAL\p4\p4\bin\Debug\p4.exe
+D:\VISUAL\p4\p4\bin\Debug\p4.pdb
+D:\VISUAL\p4\p4\obj\Debug\p4.csproj.AssemblyReference.cache
+D:\VISUAL\p4\p4\obj\Debug\p4.Form1.resources
+D:\VISUAL\p4\p4\obj\Debug\p4.Properties.Resources.resources
+D:\VISUAL\p4\p4\obj\Debug\p4.csproj.GenerateResource.cache
+D:\VISUAL\p4\p4\obj\Debug\p4.csproj.CoreCompileInputs.cache
+D:\VISUAL\p4\p4\obj\Debug\p4.exe
+D:\VISUAL\p4\p4\obj\Debug\p4.pdb
